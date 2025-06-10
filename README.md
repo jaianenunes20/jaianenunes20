@@ -1,7 +1,5 @@
 ## Olá, me chamo Jaiane ! 
 
-<!--
-**jaianenunes20/jaianenunes20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🏭 Tenho formação técnica em Automação Industrial pelo Instituto Federal do Rio de Janeiro (IFRJ)
 - 🎓 Atualmente sou graduanda do curso de Arquitetura e Urbanismo pela Universidade Federal do Rio de Janeiro(UFRJ)
